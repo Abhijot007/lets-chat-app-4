@@ -1,0 +1,14 @@
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+body{
+	background: skyblue;
+}
+
+.login_div{
+	background: rgba(255,255,255,0.8);
+	float: none;
+	border-radius: 15px;
+}
